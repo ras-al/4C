@@ -1,4 +1,6 @@
-# 4C - The Perfect Financial Assistant
-AI-powered app offering personalized investment advice, real-time market insights, portfolio management, and risk assessment. 
-Tailored to your goals, risk tolerance, and market trends. Secure, user-friendly, and designed for all investors. 
-Achieve financial success with confidence.
+# 4C - Disaster Management System
+AI Prediction: ML models analyse satellite data, weather patterns, and historical trends to forecast disasters (earthquakes, floods, cyclones).
+Real-Time Coordination: Centralized hub connects agencies/NGOs; chatbots/mobile alerts deliver live updates to communities.
+Dynamic Resource Allocation: AI prioritizes aid by risk, population, and access. 
+Resilient Communication: Mesh networks/satellite internet maintain connectivity; SOS apps enable emergency requests.
+
